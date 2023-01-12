@@ -7,7 +7,7 @@ date: 2019-05-29
 venue: 'Annual Research Seminar (ARS)'
 paperurl: 'https://seminar.ilkom.unsri.ac.id/index.php/ars/article/download/1932/920'
 ---
-<p styele="text-align: justify">Web berbahaya (Malicious web) telah berhasil menjadi salah satu ketakutan terbesar bagi para pengguna internet saat ini. Telah banyak sekali berbagai macam kasus kejahatan yang didasari oleh web berbahaya ini. Pada penelitian kali ini kami akan mencoba mengidentifikasi sebuah web apakah termasuk kategori berbahaya atau tidak tanpa melihat langsung isi dari konten web tersebut. Teknik yang digunakan dalam pengklasifikasian yaitu Logistic Regression.  Data yang digunakan sebanyak 1000 baris dengan  10 variabel prediksi dan akurasi yang didapatkan cukup tinggi yakni sebesar 94%.</p>
+<p style="text-align: justify">Web berbahaya (Malicious web) telah berhasil menjadi salah satu ketakutan terbesar bagi para pengguna internet saat ini. Telah banyak sekali berbagai macam kasus kejahatan yang didasari oleh web berbahaya ini. Pada penelitian kali ini kami akan mencoba mengidentifikasi sebuah web apakah termasuk kategori berbahaya atau tidak tanpa melihat langsung isi dari konten web tersebut. Teknik yang digunakan dalam pengklasifikasian yaitu Logistic Regression.  Data yang digunakan sebanyak 1000 baris dengan  10 variabel prediksi dan akurasi yang didapatkan cukup tinggi yakni sebesar 94%.</p>
 
 [Download paper here](https://seminar.ilkom.unsri.ac.id/index.php/ars/article/download/1932/920)
 

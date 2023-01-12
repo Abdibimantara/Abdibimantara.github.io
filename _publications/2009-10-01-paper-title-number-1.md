@@ -2,7 +2,7 @@
 title: "Klasifikasi Web Berbahaya Menggunakan Metode Logistic Regression"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Citation: Bimantara, Abdi, and Tiara Annisa Dina. "Klasifikasi Web Berbahaya Menggunakan Metode Logistic Regression." <i>Annual Research Seminar (ARS)</i>. Vol. 4. No. 1. 2019.'
 date: 2019-05-29
 venue: 'Annual Research Seminar (ARS)'
 paperurl: 'https://seminar.ilkom.unsri.ac.id/index.php/ars/article/download/1932/920'

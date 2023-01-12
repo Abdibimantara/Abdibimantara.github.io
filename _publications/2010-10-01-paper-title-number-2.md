@@ -2,7 +2,7 @@
 title: "KLASIFIKASI BOTNET PADA JARINGAN INTERNET OF THINGS (IOT) MENGGUNAKAN AUTOENCODER DAN ARTIFICIAL NEURAL NETWORK (ANN)"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'Citation: BIMANTARA, ABDI, and Deris Stiawan. KLASIFIKASI BOTNET PADA JARINGAN INTERNET OF THINGS (IOT) MENGGUNAKAN AUTOENCODER DAN ARTIFICIAL NEURAL NETWORK (ANN). Diss. <i>Sriwijaya University</i>, 2021.'
 date: 2021-06-17
 venue: 'Sriwijaya University'
 paperurl: 'https://repository.unsri.ac.id/45461/3/RAMA_52601_09011381722100_0003047905_01_front_ref.pdf'
@@ -13,5 +13,5 @@ paperurl: 'https://repository.unsri.ac.id/45461/3/RAMA_52601_09011381722100_0003
 
 [Download paper here](https://repository.unsri.ac.id/45461/3/RAMA_52601_09011381722100_0003047905_01_front_ref.pdf))
 
-Recommended citation: BIMANTARA, ABDI, and Deris Stiawan. KLASIFIKASI BOTNET PADA JARINGAN INTERNET OF THINGS (IOT) MENGGUNAKAN AUTOENCODER DAN ARTIFICIAL NEURAL NETWORK (ANN). Diss. <i>Sriwijaya University</i>, 2021.. 
+Citation: BIMANTARA, ABDI, and Deris Stiawan. KLASIFIKASI BOTNET PADA JARINGAN INTERNET OF THINGS (IOT) MENGGUNAKAN AUTOENCODER DAN ARTIFICIAL NEURAL NETWORK (ANN). Diss. <i>Sriwijaya University</i>, 2021.
 

@@ -3,8 +3,8 @@ title: "Klasifikasi Web Berbahaya Menggunakan Metode Logistic Regression"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2019-05-29
+venue: 'Annual Research Seminar (ARS)'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 ---
 
@@ -12,4 +12,4 @@ Web berbahaya (Malicious web) telah berhasil menjadi salah satu ketakutan terbes
 
 [Download paper here](https://seminar.ilkom.unsri.ac.id/index.php/ars/article/view/1932)
 
-Recommended citation: Abdi Bimantara, Tiara Annisa Dina. "Klasifikasi Web Berbahaya Menggunakan Metode Logistic Regression" <i>Annual Research Seminar (ARS)</i>.
+Citation: Abdi Bimantara, Tiara Annisa Dina. "Klasifikasi Web Berbahaya Menggunakan Metode Logistic Regression" <i>Annual Research Seminar (ARS)</i>.

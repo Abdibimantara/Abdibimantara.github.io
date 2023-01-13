@@ -1,5 +1,5 @@
 ---
-title: "KLASIFIKASI BOTNET PADA JARINGAN INTERNET OF THINGS (IOT) MENGGUNAKAN AUTOENCODER DAN ARTIFICIAL NEURAL NETWORK (ANN)"
+title: "Klasifikasi Botnet Pada Jaringan Intentet of Things (IoT) Menggunakan Autoencoder dan Artificial Neural Network (ANN)"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Citation: BIMANTARA, ABDI, and Deris Stiawan. KLASIFIKASI BOTNET PADA JARINGAN INTERNET OF THINGS (IOT) MENGGUNAKAN AUTOENCODER DAN ARTIFICIAL NEURAL NETWORK (ANN). Diss. <i>Sriwijaya University</i>, 2021.'

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title:
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -23,7 +23,7 @@ Riwayat Pekerjaan
   * Incident Response
   * Membuat laporan detail kegiatan monitoring 
 
-* Security Analyst (SOC) - PT Packet Systems Indonesia
+* Security Analyst (SOC) - PT Packet Systems Indonesia, , Jakarta Indonesia
   * Monitoring asses internal klien dalam waktu 24 x 7
   * Indentifikasi serta analysis security event
   * Threat hunting terkait detail incident yang terjadi

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,32 +9,47 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Riwayat Pendidikan 
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Fakultas Ilmu Komputer, Universitas Sriwijaya - Palembang Sumatera Selatan, 2012
 
-Work experience
+Riwayat Pekerjaan 
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Security Analyst (SOC) - PT Sembilan Pilar Semesta, Jakarta Indonesia
+  * Monitoring asses internal klien dalam waktu 24 x 7
+  * Indentifikasi serta analysis security event
+  * Threat hunting terkait detail incident yang terjadi
+  * Eskalasi event security ke Tier 2 atau 3
+  * Incident Response
+  * Membuat laporan detail kegiatan monitoring 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Security Analyst (SOC) - PT Packet Systems Indonesia
+  * Monitoring asses internal klien dalam waktu 24 x 7
+  * Indentifikasi serta analysis security event
+  * Threat hunting terkait detail incident yang terjadi
+  * Eskalasi event security ke Tier 2 atau 3
+  * Incident Response
+  * Membuat laporan detail kegiatan monitoring 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Analyze Security Event From SIEM platform
+* Report possible threats or software issue
+* Intrusion Detection & PRevention System
+* Incident Response
+* Penetration Testing
+* Python Programming
+
+Security Tools
+======
+* Stellar, Elastic, Splunk, Wazuh, Logryhthm (SIEM)
+* Fortigate (Firewall)
+* TrendMicro DDi, Stealwatch (IDS)
+* F5 (WAF)
+* Cisco Sourcefire, HP Tipping Point (IPS)
+* Falcon Crowdstrike (EDR)
+* Record Future (Threat Intel)
+* Imperva (Database Monitoring)
 
 Publications
 ======
@@ -42,18 +57,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Sertifications
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+[More Information]()

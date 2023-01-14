@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "BimantaraPortofolio"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Abdi Bimantara's Blog"
 description              : &description "personal description"
 url                      : https://Abdibimantara.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

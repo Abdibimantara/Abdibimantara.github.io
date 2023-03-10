@@ -11,4 +11,6 @@ redirect_from:
   
 Apabila Berkenan, Saya Harap Kita Dapat Terhubung Dan Berdiskusi Lebih Lanjut .
 
+[Download my CV](https://drive.google.com/file/d/1ZqaGUEiwqPjMMeDsy5qd6Ni1eSyE_uAG/view?usp=share_link)
+
 

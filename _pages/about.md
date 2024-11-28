@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p style="text-align:justify">Seorang lulusan Universitas Sriwijaya yang sangat tertarik dalam bidang Cyber Security. Memiliki minat dalam bidang bluteam sebagai security analyst. Mempunyai hobi bermain CTF seperti TryHackMe, Hackthebox, Pentesterlab, Letsdefend, dan Blueteamlabs.<p>
+<p style="text-align:justify">
+Halo, nama saya Abdi Bimantara. Saya adalah seorang Security Analyst dengan latar belakang pendidikan dari Universitas Sriwijaya.Memiliki minat yang mendalam dalam bidang threat hunting dan security investigation, khususnya dalam menganalisis serta mengidentifikasi ancaman keamanan yang dapat membahayakan sistem. Melalui pendekatan yang analitis dan strategis, saya berkomitmen untuk mendukung keamanan organisasi melalui deteksi dini dan mitigasi ancaman yang efektif.
+<p>
   
 Apabila Berkenan, Saya Harap Kita Dapat Terhubung Dan Berdiskusi Lebih Lanjut .
 

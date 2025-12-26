@@ -77,4 +77,4 @@ Sertifications
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-[More Information]()
+[More Information](https://drive.google.com/file/d/1-vTzszGS61Q6VeoB65Rl-b-PHXib7IAv/view?usp=sharing)
